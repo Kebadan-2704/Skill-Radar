@@ -1,0 +1,16 @@
+{
+  "domain": "Data Science",
+  "confidence": 55.17,
+  "level": "Intermediate",
+  "level_score": 53.65370116195817,
+  "detected_terms": {
+    "Beginner": 4,
+    "Intermediate": 10,
+    "Advanced": 1
+  },
+  "answer_stats": {
+    "total_answers": 25,
+    "avg_answer_length": 8.555555555555555,
+    "total_words": 103
+  }
+}

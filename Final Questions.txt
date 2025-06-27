@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Which of these programming languages have you worked with?",
+    "type": "multiple",
+    "answers": ["Python", "JavaScript", "Java"]
+  },
+  {
+    "question": "Which part of development interests you the most?",
+    "type": "single",
+    "answers": ["Frontend","Full Stack"]
+  },
+  {
+    "question": "What type of applications would you like to build?",
+    "type": "multiple",
+    "answers": ["Web apps", "AI tools", "Data dashboards"]
+  },
+  {
+    "question": "Which tools or frameworks are you familiar with?",
+    "type": "multiple",
+    "answers": ["Node.js"]
+  },
+  {
+    "question": "Do you have experience with databases?",
+    "type": "multiple",
+    "answers": ["MySQL", "MongoDB"]
+  },
+  {
+    "question": "What are your interests in AI/ML?",
+    "type": "multiple",
+    "answers": ["Machine Learning", "Computer Vision", "Natural Language Processing", "Generative AI"]
+  },
+  {
+    "question": "Which cloud platforms do you know or want to learn?",
+    "type": "multiple",
+    "answers": ["Not interested"]
+  },
+  {
+    "question": "What’s your experience with DevOps tools?",
+    "type": "multiple",
+    "answers": ["Docker","GitHub Actions"]
+  },
+  {
+    "question": "Do you know any testing tools?",
+    "type": "multiple",
+    "answers": ["No"]
+  },
+  {
+    "question": "What’s your level of experience with version control?",
+    "type": "single",
+    "answers": ["Just started using Git"]
+  },
+  {
+    "question": "Which data-related tools have you used?",
+    "type": "multiple",
+    "answers": ["Pandas", "NumPy", "Power BI", "Tableau"]
+  },
+  {
+    "question": "Which AI tools or models are you curious about?",
+    "type": "multiple",
+    "answers": ["ChatGPT", "Stable Diffusion", "Gemini", "MidJourney"]
+  },
+  {
+    "question": "Do you want to work with cybersecurity topics?",
+    "type": "multiple",
+    "answers": ["Ethical Hacking"]
+  },
+  {
+    "question": "Have you built or consumed APIs?",
+    "type": "single",
+    "answers": ["Only heard of them"]
+  },
+  {
+    "question": "What kind of projects excite you?",
+    "type": "multiple",
+    "answers": ["AI chatbots"]
+  },
+  {
+    "question": "Do you enjoy working with data?",
+    "type": "single",
+    "answers": ["Yes, I love data analysis"]
+  },
+  {
+    "question": "Which of these technologies have you heard of or used?",
+    "type": "multiple",
+    "answers": ["REST APIs"]
+  },
+  {
+    "question": "Do you know any mobile development frameworks?",
+    "type": "multiple",
+    "answers": ["None"]
+  },
+  {
+    "question": "Are you comfortable with statistics and math?",
+    "type": "single",
+    "answers": ["Yes, very"]
+  },
+  {
+    "question": "Which type of career roles are you aiming for?",
+    "type": "single",
+    "answers": ["Full Stack Developer", "AI/ML Engineer", "Data Scientist"]
+  },
+  {
+    "question": "Which type of content do you prefer while learning?",
+    "type": "multiple",
+    "answers": ["All of the above"]
+  },
+  {
+    "question": "What motivates your learning the most?",
+    "type": "single",
+    "answers": ["Building projects", "Getting a job", "Solving real-world problems", "Research", "Exploration"]
+  },
+  {
+    "question": "Do you want to build generative AI apps?",
+    "type": "single",
+    "answers": ["Maybe"]
+  },
+  {
+    "question": "Are you interested in scalable, distributed systems?",
+    "type": "single",
+    "answers": ["Somewhat"]
+  },
+  {
+    "question": "How do you prefer to work on problems?",
+    "type": "single",
+    "answers": ["None/Not sure"]
+  }
+]

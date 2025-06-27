@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which of these programming languages have you worked with?",
+    "answers": ["Python", "JavaScript", "Java"]
+  },
+  {
+    "question": "Which part of development interests you the most?",
+    "answers": "Backend"
+  },
+  {
+    "question": "What type of applications would you like to build?",
+    "answers": ["AI tools", "Data dashboards", "APIs"]
+  },
+  {
+    "question": "Which tools or frameworks are you familiar with?",
+    "answers": ["Flask", "Django", "React"]
+  },
+  {
+    "question": "Do you have experience with databases?",
+    "answers": ["MySQL", "MongoDB"]
+  },
+  {
+    "question": "What are your interests in AI/ML?",
+    "answers": ["Machine Learning", "Computer Vision", "Natural Language Processing", "Generative AI"]
+  },
+  {
+    "question": "Which cloud platforms do you know or want to learn?",
+    "answers": ["AWS", "Google Cloud", "Azure"]
+  },
+  {
+    "question": "What’s your experience with DevOps tools?",
+    "answers": ["Docker", "GitHub Actions"]
+  },
+  {
+    "question": "Do you know any testing tools?",
+    "answers": ["Selenium", "Postman"]
+  },
+  {
+    "question": "What’s your level of experience with version control?",
+    "answers": "Git & GitHub (Intermediate+)"
+  },
+  {
+    "question": "Which data-related tools have you used?",
+    "answers": ["Pandas", "NumPy", "Power BI"]
+  },
+  {
+    "question": "Which AI tools or models are you curious about?",
+    "answers": ["ChatGPT", "Stable Diffusion", "Gemini"]
+  },
+  {
+    "question": "Do you want to work with cybersecurity topics?",
+    "answers": ["Application Security", "Compliance & Governance"]
+  },
+  {
+    "question": "Have you built or consumed APIs?",
+    "answers": "Used public APIs"
+  },
+  {
+    "question": "What kind of projects excite you?",
+    "answers": ["Automation scripts", "AI chatbots", "SaaS platforms"]
+  },
+  {
+    "question": "Do you enjoy working with data?",
+    "answers": "Yes, I love data analysis"
+  },
+  {
+    "question": "Which of these technologies have you heard of or used?",
+    "answers": ["REST APIs", "GraphQL", "WebSockets"]
+  },
+  {
+    "question": "Do you know any mobile development frameworks?",
+    "answers": ["Flutter", "React Native"]
+  },
+  {
+    "question": "Are you comfortable with statistics and math?",
+    "answers": "Yes, very"
+  },
+  {
+    "question": "Which type of career roles are you aiming for?",
+    "answers": "Data Scientist"
+  },
+  {
+    "question": "Which type of content do you prefer while learning?",
+    "answers": ["Video tutorials", "Documentation", "Hands-on projects", "Reading articles", "All of the above"]
+  },
+  {
+    "question": "What motivates your learning the most?",
+    "answers": "Solving real-world problems"
+  },
+  {
+    "question": "Do you want to build generative AI apps?",
+    "answers": "Yes"
+  },
+  {
+    "question": "Are you interested in scalable, distributed systems?",
+    "answers": "Yes, very"
+  },
+  {
+    "question": "How do you prefer to work on problems?",
+    "answers": "Project-based"
+  }
+]

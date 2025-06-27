@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Which of these programming languages have you worked with?",
+    "type": "multiple",
+    "options": ["Python", "JavaScript", "Java", "C++", "None of these"]
+  },
+  {
+    "question": "Which part of development interests you the most?",
+    "type": "single",
+    "options": ["Frontend", "Backend", "Full Stack", "Mobile App", "None/Not Sure"]
+  },
+  {
+    "question": "What type of applications would you like to build?",
+    "type": "multiple",
+    "options": ["Web apps", "AI tools", "Data dashboards", "APIs", "Cybersecurity systems"]
+  },
+  {
+    "question": "Which tools or frameworks are you familiar with?",
+    "type": "multiple",
+    "options": ["React", "Node.js", "Django", "Flask", "None"]
+  },
+  {
+    "question": "Do you have experience with databases?",
+    "type": "multiple",
+    "options": ["MySQL", "MongoDB", "PostgreSQL", "Firebase", "No experience"]
+  },
+  {
+    "question": "What are your interests in AI/ML?",
+    "type": "multiple",
+    "options": ["Machine Learning", "Computer Vision", "Natural Language Processing", "Generative AI", "No interest"]
+  },
+  {
+    "question": "Which cloud platforms do you know or want to learn?",
+    "type": "multiple",
+    "options": ["AWS", "Azure", "Google Cloud", "DigitalOcean", "Not interested"]
+  },
+  {
+    "question": "What’s your experience with DevOps tools?",
+    "type": "multiple",
+    "options": ["Docker", "Kubernetes", "GitHub Actions", "Jenkins", "None"]
+  },
+  {
+    "question": "Do you know any testing tools?",
+    "type": "multiple",
+    "options": ["Jest", "Cypress", "Selenium", "Postman", "No"]
+  },
+  {
+    "question": "What’s your level of experience with version control?",
+    "type": "single",
+    "options": ["Git & GitHub (Intermediate+)", "Just started using Git", "I don’t use version control"]
+  },
+  {
+    "question": "Which data-related tools have you used?",
+    "type": "multiple",
+    "options": ["Pandas", "NumPy", "Power BI", "Tableau", "None"]
+  },
+  {
+    "question": "Which AI tools or models are you curious about?",
+    "type": "multiple",
+    "options": ["ChatGPT", "Stable Diffusion", "Gemini", "MidJourney", "None"]
+  },
+  {
+    "question": "Do you want to work with cybersecurity topics?",
+    "type": "multiple",
+    "options": ["Ethical Hacking", "Network Security", "Application Security", "Compliance & Governance", "Not interested"]
+  },
+  {
+    "question": "Have you built or consumed APIs?",
+    "type": "single",
+    "options": ["Yes, built APIs", "Used public APIs", "Only heard of them", "No experience"]
+  },
+  {
+    "question": "What kind of projects excite you?",
+    "type": "multiple",
+    "options": ["Automation scripts", "AI chatbots", "Mobile apps", "SaaS platforms", "None yet"]
+  },
+  {
+    "question": "Do you enjoy working with data?",
+    "type": "single",
+    "options": ["Yes, I love data analysis", "Prefer building things", "Interested but no experience", "Not really"]
+  },
+  {
+    "question": "Which of these technologies have you heard of or used?",
+    "type": "multiple",
+    "options": ["REST APIs", "GraphQL", "WebSockets", "gRPC", "None"]
+  },
+  {
+    "question": "Do you know any mobile development frameworks?",
+    "type": "multiple",
+    "options": ["Flutter", "React Native", "Swift", "Kotlin", "None"]
+  },
+  {
+    "question": "Are you comfortable with statistics and math?",
+    "type": "single",
+    "options": ["Yes, very", "Somewhat", "Not really"]
+  },
+  {
+    "question": "Which type of career roles are you aiming for?",
+    "type": "single",
+    "options": ["Full Stack Developer", "AI/ML Engineer", "Data Scientist", "DevOps Engineer", "Cybersecurity Analyst"]
+  },
+  {
+    "question": "Which type of content do you prefer while learning?",
+    "type": "multiple",
+    "options": ["Video tutorials", "Documentation", "Hands-on projects", "Reading articles", "All of the above"]
+  },
+  {
+    "question": "What motivates your learning the most?",
+    "type": "single",
+    "options": ["Building projects", "Getting a job", "Solving real-world problems", "Research", "Exploration"]
+  },
+  {
+    "question": "Do you want to build generative AI apps?",
+    "type": "single",
+    "options": ["Yes", "Maybe", "No"]
+  },
+  {
+    "question": "Are you interested in scalable, distributed systems?",
+    "type": "single",
+    "options": ["Yes, very", "Somewhat", "No"]
+  },
+  {
+    "question": "How do you prefer to work on problems?",
+    "type": "single",
+    "options": ["Independently", "With teams", "Project-based", "None/Not sure"]
+  }
+]
